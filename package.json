@@ -1,0 +1,22 @@
+{
+  "name": "lexer-app",
+  "version": "0.0.1",
+  "description": "pwa for lexer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/belazius/lexer.git"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Benedikt Brixius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belazius/lexer/issues"
+  },
+  "homepage": "https://github.com/belazius/lexer#readme"
+}
